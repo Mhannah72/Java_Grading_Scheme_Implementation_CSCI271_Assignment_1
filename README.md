@@ -14,7 +14,6 @@ Once you finish writing and testing your program, run it on the grades for the s
 From assignment1_data.csv
 
 StudentName   A1       A2       A3       A4       A5       A6       A7       T1       T2       T3       T4       T5      T6       T7      MidTerm      FinalExam
-
 Garret        63       83       100      91       100      100      100      100      95       75       92       100     74       100       62            47
 Janaya        57       79       49       73       50       64       35       46       16       2        25       60      73       0         44            21
 Strickland    96       62       89       96       94       78       52       59       86       76       20       53      58       86        16            81
